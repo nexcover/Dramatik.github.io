@@ -1,0 +1,783 @@
+/** skill.css **/
+
+.aaa{
+    content: url("../img/eyelinebox.png");
+}
+
+/**하이라이트**/
+.mnauraleyeline_img{
+    content: url("../img/eyeline_natural.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mnauraleyeline{
+    content: url("../img/아이라인 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**하이라이트**/
+.mhighlight_img{
+    content: url("../img/eyeline_highlight.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mhighlight{
+    content: url("../img/하이라이트 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**언더라인**/
+.munderline_img{
+    content: url("../img/eyeline_underline.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.munderline{
+    content: url("../img/언더라인 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**섀도우**/
+.mshadow_img{
+    content: url("../img/eyeline_shadow.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mshadow{
+    content: url("../img/섀도우 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**더블라인**/
+.mdoubleline_img{
+    content: url("../img/eyeline_double.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mdoubleline{
+    content: url("../img/더블라인 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+
+
+.bbb{
+    content: url("../img/eyebrowbox.png");
+}
+
+/**엠보기법**/
+.membo_img{
+    content: url("../img/embo.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.membo{
+    content: url("../img/엠보기법 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**페더링**/
+.mfeathering_img{
+    content: url("../img/feathering.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mfeathering{
+    content: url("../img/페더링기법 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**파스텔**/
+.mpastel_img{
+    content: url("../img/pastel.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mpastel{
+    content: url("../img/파스텔기법 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**3d4d**/
+.m3d4d_img{
+    content: url("../img/3d4d.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.m3d4d{
+    content: url("../img/3d4d기법 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+/**수지기법**/
+.macupuncture_img{
+    content: url("../img/acupuncture.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.macupuncture{
+    content: url("../img/수지기법 글.png");
+    width: 50%; 
+    margin-left:100px;
+}
+
+
+.ccc{
+    content: url("../img/eyelashbox.png");
+}
+
+/**j컬**/
+.mj_img{
+    content: url("../img/J.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mj{
+    content: url("../img/j컬 글.png");
+    width: 45%; 
+    margin-left:100px;
+}
+/**c컬**/
+.mc_img{
+    content: url("../img/C.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mc{
+    content: url("../img/C컬 글.png");
+    width: 38%; 
+    margin-left:100px;
+}
+/**jc컬**/
+.mjc_img{
+    content: url("../img/JC.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mjc{
+    content: url("../img/jc컬 글.png");
+    width: 49%; 
+    margin-left:100px;
+}
+/**cc컬**/
+.mcc_img{
+    content: url("../img/CC.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mcc{
+    content: url("../img/CC컬 글.png");
+    width: 42%; 
+    margin-left:100px;
+}
+/**L컬**/
+.mL_img{
+    content: url("../img/L.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mL{
+    content: url("../img/L컬 글.png");
+    width: 40%; 
+    margin-left:100px;
+}
+
+
+.ddd{
+    content: url("../img/lipbox.png");
+}
+
+/**틴트입술**/
+.mtint_img{
+    content: url("../img/tint.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mtint{
+    content: url("../img/틴트입술 글.png");
+    width: 45%; 
+    margin-left:100px;
+}
+/**볼륨입술**/
+.mvolume_img{
+    content: url("../img/volume.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mvolume{
+    content: url("../img/볼륨입술 글.png");
+    width: 49%; 
+    margin-left:100px;
+}
+/**교정입술**/
+.mgyojung_img{
+    content: url("../img/gyojung.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.mgyojung{
+    content: url("../img/교정입술 글.png");
+    width: 52%; 
+    margin-left:100px;
+}
+/**수정입술**/
+.msujung_img{
+    content: url("../img/sujung.png");
+    width: 100%; 
+    margin-left:100px;
+}
+.msujung{
+    content: url("../img/수정입술 글.png");
+    width: 40%; 
+    margin-left:100px;
+}
+
+
+/**스킬5 smp**/
+.skillsmp{
+    content: url("../img/스킬smp박스.png");
+}
+.Ainfo-explain{
+    display: none;
+}
+
+/**왁싱**/
+.waxingboxM{
+    content: url("../img/waxingbox.png");
+}
+
+
+
+.skill-text {
+    margin-top: 60px;
+    width: 80%; 
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.skill-text p{
+    font-size: 12pt;
+    letter-spacing: 1pt;
+    line-height: 18pt;
+    font-weight: 400;
+}
+
+.skill-text h3 span{
+    color:rgb(93, 51, 134);
+    /* background: linear-gradient(to top,  rgba(93, 51, 134, 0.25) 20%, transparent 50%); */
+   font-weight: bold;
+}
+.skill-text h4{
+   font-weight: 600;
+}
+
+.skill-text .skill-img{
+  display: flex;
+  align-items: center; 
+  margin-bottom: 3px;
+}  
+
+.skill-text .skill-img img{
+    width: 90%;
+   /* margin: 0 auto;*/
+}
+
+/*.skill-explain{
+    width: 80%; 
+    margin: 0 auto;
+   margin-top: 4rem;
+   margin-bottom: 3rem;
+   background-color: rgba(225,225,225,0.3);
+   padding: 1rem 3rem;
+   border-radius:0.5rem;
+   -webkit-box-shadow: 1px 2px 10px 1px rgba(0,0,0,.2);
+   box-shadow: 1px 2px 10px 1px rgba(0,0,0,.2);
+} */
+.skill-explain .client-info h3{
+    font-size: 25pt;
+    font-weight: 900;
+    color: rgb(93, 51, 134);
+    text-align: center;
+}
+
+
+.skill-explain p{
+    font-size: 16pt;
+    letter-spacing: 1pt;
+    line-height: 25pt;
+    font-weight:400;
+    /* background-color: red; */
+    width: 90%;
+    margin: 0 auto;
+    margin-top: -5px;
+    margin-bottom: 1rem;
+}
+.skill-explain h3 span{
+    /* background: linear-gradient(to top,  rgba(93, 51, 134, 0.25) 20%, transparent 50%); */
+   font-weight: bold;
+}
+
+.skillButton {
+    padding: 10px;
+    background-color: black;
+    margin-top: 100px;
+}
+
+.skillButton h3 {
+    font-size: 12pt;
+    letter-spacing: 2pt;
+    text-align: right;
+    padding: 10px;
+}
+
+.skillButton a {
+    text-decoration: none;
+    color:white;
+}
+
+.skill-text .skill-waxingimg img{
+    width: 70%;
+   margin: 0 auto;
+}
+.waxing-content{
+    width: 70%;
+    margin: 0 auto;
+
+}
+.skill-middle{
+    width: 90%;
+    margin: 50px auto;
+}
+.skill-middleimg{
+    text-align: center;
+}
+.skill-middle img{
+    width: 80%;
+}
+.smp-skill{
+   justify-content: center;
+   align-items: center;
+}
+
+.smpcontent-middle h3{
+    color:rgb(93, 51, 134)
+ }
+
+.smpcontent-middle p{
+  font-size: 15px;
+  margin: 0;
+  width: 100%; 
+}
+.smp-woman-skill{
+ margin-bottom:50px;
+}
+.smpCimg{
+    width: 90%;
+}
+
+@media (max-width: 1000px) {
+    .skill-middle{
+        width: 80%;
+        margin: 50px auto;
+    }
+    .skill-middle img{
+        width: 90%;
+    }
+    .smpcontent-middle p{
+        font-size: 12px;
+        margin: 0;
+        line-height: 13pt;
+      }
+}
+
+@media (max-width: 768px) {
+    .smpCimg{
+       width: 200px;
+    }
+    .skill-middle img{
+        width: 90%;
+    }
+    .smpcontent-middle p{
+        font-size: 16px;
+        margin: 0;
+        line-height: 13pt;
+      }
+}
+@media only screen and (max-width: 576px) {
+    .skill-one .client-skill h3{
+        font-size:100%;
+    }
+
+    .aaa{
+        content: url("../img/eyelinebox_mobile.png");
+    }
+    /**하이라이트**/
+    .mnauraleyeline_img{
+        content: url("../img/eyeline_natural.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mnauraleyeline{
+        content: url("../img/아이라인 글_mobile.png");
+        width: 70%; 
+        margin-left:53px;
+        margin-top: 15px; 
+    }
+    /**하이라이트**/
+    .mhighlight_img{
+        content: url("../img/eyeline_highlight.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mhighlight{
+        content: url("../img/하이라이트 글_mobile.png");
+        width: 70%; 
+        margin-left:53px;
+        margin-top: 15px; 
+    }
+    /**언더라인**/
+    .munderline_img{
+        content: url("../img/eyeline_underline.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .munderline{
+        content: url("../img/언더라인 글_mobile.png");
+        width: 77%; 
+        margin-left:50px;
+        margin-top: 20px;
+    }
+     /**섀도우**/
+    .mshadow_img{
+        content: url("../img/eyeline_shadow.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mshadow{
+        content: url("../img/섀도우 글_mobile.png");
+        width: 66%; 
+        margin-left:58px;
+        margin-top: 19px;
+    }
+      /**더블라인**/
+    .mdoubleline_img{
+        content: url("../img/eyeline_double.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mdoubleline{
+        content: url("../img/더블라인 글_mobile.png");
+        width: 67%; 
+        margin-left:56px;
+        margin-top: 20px;
+    }
+
+
+    .bbb{
+        content: url("../img/eyebrowbox_mobile.png");
+    }
+    
+    /**엠보기법**/
+    .membo_img{
+        content: url("../img/embo.png");
+        width: 50%; 
+        margin-left:100px;
+    }
+    .membo{
+        content: url("../img/엠보기법 글_mobile.png");
+        width: 60%; 
+        margin-left:57px;
+        margin-top: 20px;
+    }
+    /**페더링**/
+    .mfeathering_img{
+        content: url("../img/feathering.png");
+        width: 50%; 
+        margin-left:100px;
+    }
+    .mfeathering{
+        content: url("../img/페더링기법 글_mobile.png");
+        width: 66%; 
+        margin-left:53px;
+        margin-top: 20px;
+    }
+    /**파스텔**/
+    .mpastel_img{
+        content: url("../img/pastel.png");
+        width: 50%; 
+        margin-left:100px;
+    }
+    .mpastel{
+        content: url("../img/파스텔기법 글_mobile.png");
+        width: 64%; 
+        margin-left:52px;
+        margin-top: 20px;
+    }
+    /**3d4d**/
+    .m3d4d_img{
+        content: url("../img/3d4d.png");
+        width: 50%; 
+        margin-left:100px;
+    }
+    .m3d4d{
+        content: url("../img/3d4d기법 글_mobile.png");
+        width: 75%; 
+        margin-left:43px;
+        margin-top: 20px;
+    }
+    /**수지기법**/
+    .macupuncture_img{
+        content: url("../img/acupuncture.png");
+        width: 50%; 
+        margin-left:100px;
+    }
+    .macupuncture{
+        content: url("../img/수지기법 글_mobile.png");
+        width: 70%; 
+        margin-left:50px;
+        margin-top: 20px;
+    }
+
+
+    .ccc{
+        content: url("../img/eyelashbox_mobile.png");
+    
+    }
+    /**J컬**/
+    .mj_img{
+        content: url("../img/J.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mj{
+        content: url("../img/j컬 글_mobile.png");
+        width: 70%; 
+        margin-left:48px;
+        margin-top: 16px;
+    }
+    /**C컬**/
+    .mc_img{
+        content: url("../img/C.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mc{
+        content: url("../img/C컬 글_mobile.png");
+        width: 70%; 
+        margin-left:48px;
+        margin-top: 16px;
+    }
+     /**JC컬**/
+    .mjc_img{
+        content: url("../img/jc.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mjc{
+        content: url("../img/jc컬 글_mobile.png");
+        width: 70%; 
+        margin-left:48px;
+        margin-top: 16px;
+    }
+      /**CC컬**/
+    .mcc_img{
+        content: url("../img/CC.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mcc{
+        content: url("../img/CC컬 글_mobile.png");
+        width: 70%; 
+        margin-left:48px;
+        margin-top: 16px;
+    }
+      /**L컬**/
+      .mL_img{
+        content: url("../img/L.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mL{
+        content: url("../img/L컬 글_mobile.png");
+        width: 70%; 
+        margin-left:48px;
+        margin-top: 16px;
+    }
+
+
+    .ddd{
+        content: url("../img/lipbox_mobile.png");
+    
+    }
+    /**틴트입술**/
+    .mtint_img{
+        content: url("../img/tint.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mtint{
+        content: url("../img/틴트입술_mobile.png");
+        width: 83%; 
+        margin-left:32px;
+        margin-top: 20px;
+    }
+    /**볼륨입술**/
+    .mvolume_img{
+        content: url("../img/volume.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mvolume{
+        content: url("../img/볼륨입술_mobile.png");
+        width: 88%; 
+        margin-left:32px;
+        margin-top: 20px;
+    }
+     /**교정입술**/
+    .mgyojung_img{
+        content: url("../img/gyojung.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .mgyojung{
+        content: url("../img/교정입술_mobile.png");
+        width: 87%; 
+        margin-left:32px;
+        margin-top: 20px;
+    }
+      /**수정입술**/
+    .msujung_img{
+        content: url("../img/sujung.png");
+        width: 50%;
+        margin-left: 100px;
+    }
+    .msujung{
+        content: url("../img/수정입술_mobile.png");
+        width: 89%; 
+        margin-left:32px;
+        margin-top: 20px;
+    }
+     
+    /**스킬5 smp**/
+    .skillsmp{
+        display: none;
+    }
+    .Ainfo-explain{
+        display: block;
+    }
+    
+    .SMP_skill{
+        content: url("../img/SMP_skill제목.png");
+        width: 17%;
+    }
+        /**여성**/
+    .smpXimg{
+        content: url("../img/skill_smp_woman.png");
+        width: 43%;
+
+    }
+    .smpEimg{
+        content: url("../img/smp두피여성_피씨.png");
+        margin: 35px 0 20px 0;
+    }
+    .smpFimg{
+        content: url("../img/womansmp.png");
+    }
+
+    /**남성**/
+    .smpYimg{
+        content: url("../img/skill_smp_man.png");
+        width: 43%;
+
+    }
+    .smpGimg{
+        content: url("../img/smp두피남성_피씨.png");
+        margin: 35px 0 43px 0px;
+    }
+    .smpHimg{
+        content: url("../img/mansmp.png");
+    }
+
+
+    /**스킬6 왁싱**/
+    .waxingboxM{
+        content: url("../img/waxingbox_mobile.png");
+    }
+    .skill-waxingimg{
+        display: none;    
+    }
+    .waxing-content{
+        content: url("../img/waxingskill_mobile.png");
+        width: 80%;
+    }
+
+
+    .skill-text h3 span{
+        font-size: 100%;
+    }
+
+    .skill-text h4{
+        font-size: 75%;
+    }
+    
+    .skill-text p{
+        font-size: 100%;
+    }
+    .skill-explain h3 span{
+        font-size:75%;
+    }
+
+    .skill-explain{
+       width: 100%;
+    } 
+    .skill-explain p{
+        font-size: 100%;
+    }
+    /* .skill-explain img{
+        width: 100%;
+    } */
+
+    .skill-text .skill-img img{
+        width: 70%;
+       margin: 0 auto;
+    }
+    .skill-text .skill-waxingimg img{
+        width:90%;
+       margin: 0 auto;
+    }
+    .waxing-content{
+        width: 90%;
+        margin: 0 auto;
+    
+    }
+    .skill-middle{
+        width: 100%;
+        margin: 50px auto;
+    }
+    .skill-middle img{
+        width: 100%;
+    }
+    .smpcontent-middle h3 span{
+        color:rgb(93, 51, 134);
+        font-size: 17px;
+     }
+    
+    .smpcontent-middle p{
+      font-size: 13px;
+    }
+    .smpImg{
+        margin:30px 0;
+    }
+    .smp-woman-skill{
+        margin-bottom:20px;
+       }
+  }
+
+  @media only screen and (max-width: 320px) {
+    .skill-middle{
+        width: 100%;
+        margin: 50px auto;
+    }
+    .skill-middle img{
+        width: 100%;
+    }
+  }

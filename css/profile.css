@@ -1,0 +1,106 @@
+.ABtext_head {
+    font-size: 34px;
+    font-weight: 600;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.ABtext_head1 {
+    display: none;
+    font-weight: 600;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.ABtext_head2 {
+    display: none;
+    font-weight: 600;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.ABtext_color {
+    color: #35176c;
+}
+
+.profilePC {
+    display: block;
+}
+
+.profileM {
+    display: none;
+}
+
+.tdST {
+    text-align: left; 
+    border: none;
+}
+
+.tdST1 {
+    text-align: left; 
+    border: none;
+}
+
+.tdST2 {
+    width: 100%; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.tdST3 {
+    width: 365px; 
+    height: auto; 
+    /* border: 1px solid black; */
+}
+
+.textST {
+    border-bottom: 1px solid gray;
+}
+
+
+@media only screen and (max-width: 1476px) {
+    .profilePC {
+        display: none;
+    }
+    
+    .profileM {
+        display: block;
+    }
+} 
+
+@media only screen and (max-width: 1650px) {
+    .ABtext_head {
+        font-size: 33px;
+    }
+}
+
+@media only screen and (max-width: 1450px) {
+    .ABtext_head {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 1350px) {
+    .ABtext_head {
+        font-size: 25px; 
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    .ABtext_head {
+        display: none;
+    }
+    .ABtext_head1 {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .ABtext_head {
+        display: none;
+    }
+    .ABtext_head1 {
+        display: none;
+    }
+    .ABtext_head2 {
+        display: block;
+    }
+}
