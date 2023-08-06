@@ -11,7 +11,7 @@
     margin-left:100px;
 }
 .mnauraleyeline{
-    content: url("../img/아이라인 글.png");
+    content: url("../img/eyeline_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -22,7 +22,7 @@
     margin-left:100px;
 }
 .mhighlight{
-    content: url("../img/하이라이트 글.png");
+    content: url("../img/highlight_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -33,7 +33,7 @@
     margin-left:100px;
 }
 .munderline{
-    content: url("../img/언더라인 글.png");
+    content: url("../img/underline_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -44,7 +44,7 @@
     margin-left:100px;
 }
 .mshadow{
-    content: url("../img/섀도우 글.png");
+    content: url("../img/shadow_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -55,7 +55,7 @@
     margin-left:100px;
 }
 .mdoubleline{
-    content: url("../img/더블라인 글.png");
+    content: url("../img/doubleline_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -72,7 +72,7 @@
     margin-left:100px;
 }
 .membo{
-    content: url("../img/엠보기법 글.png");
+    content: url("../img/embo_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -83,7 +83,7 @@
     margin-left:100px;
 }
 .mfeathering{
-    content: url("../img/페더링기법 글.png");
+    content: url("../img/padering_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -94,7 +94,7 @@
     margin-left:100px;
 }
 .mpastel{
-    content: url("../img/파스텔기법 글.png");
+    content: url("../img/pastel_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -105,7 +105,7 @@
     margin-left:100px;
 }
 .m3d4d{
-    content: url("../img/3d4d기법 글.png");
+    content: url("../img/3d4d_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -116,7 +116,7 @@
     margin-left:100px;
 }
 .macupuncture{
-    content: url("../img/수지기법 글.png");
+    content: url("../img/suji_text.png");
     width: 50%; 
     margin-left:100px;
 }
@@ -133,7 +133,7 @@
     margin-left:100px;
 }
 .mj{
-    content: url("../img/j컬 글.png");
+    content: url("../img/J_curl_text.png");
     width: 45%; 
     margin-left:100px;
 }
@@ -144,7 +144,7 @@
     margin-left:100px;
 }
 .mc{
-    content: url("../img/C컬 글.png");
+    content: url("../img/C_curl_text.png");
     width: 38%; 
     margin-left:100px;
 }
@@ -155,7 +155,7 @@
     margin-left:100px;
 }
 .mjc{
-    content: url("../img/jc컬 글.png");
+    content: url("../img/JC_curl_text.png");
     width: 49%; 
     margin-left:100px;
 }
@@ -166,7 +166,7 @@
     margin-left:100px;
 }
 .mcc{
-    content: url("../img/CC컬 글.png");
+    content: url("../img/CC_curl_text.png");
     width: 42%; 
     margin-left:100px;
 }
@@ -177,7 +177,7 @@
     margin-left:100px;
 }
 .mL{
-    content: url("../img/L컬 글.png");
+    content: url("../img/L_curl_text.png");
     width: 40%; 
     margin-left:100px;
 }
@@ -194,7 +194,7 @@
     margin-left:100px;
 }
 .mtint{
-    content: url("../img/틴트입술 글.png");
+    content: url("../img/tint_lip_text.png");
     width: 45%; 
     margin-left:100px;
 }
@@ -205,7 +205,7 @@
     margin-left:100px;
 }
 .mvolume{
-    content: url("../img/볼륨입술 글.png");
+    content: url("../img/volume_lip_text.png");
     width: 49%; 
     margin-left:100px;
 }
@@ -216,7 +216,7 @@
     margin-left:100px;
 }
 .mgyojung{
-    content: url("../img/교정입술 글.png");
+    content: url("../img/gyojung_text.png");
     width: 52%; 
     margin-left:100px;
 }
@@ -227,7 +227,7 @@
     margin-left:100px;
 }
 .msujung{
-    content: url("../img/수정입술 글.png");
+    content: url("../img/sujung_lip_text.png");
     width: 40%; 
     margin-left:100px;
 }
@@ -235,7 +235,7 @@
 
 /**스킬5 smp**/
 .skillsmp{
-    content: url("../img/스킬smp박스.png");
+    content: url("../img/skill_smp_box.png");
 }
 .Ainfo-explain{
     display: none;
@@ -245,8 +245,6 @@
 .waxingboxM{
     content: url("../img/waxingbox.png");
 }
-
-
 
 .skill-text {
     margin-top: 60px;
@@ -417,7 +415,7 @@
         margin-left: 100px;
     }
     .mnauraleyeline{
-        content: url("../img/아이라인 글_mobile.png");
+        content: url("../img/eyeline_text_mobile.png");
         width: 70%; 
         margin-left:53px;
         margin-top: 15px; 
@@ -429,7 +427,7 @@
         margin-left: 100px;
     }
     .mhighlight{
-        content: url("../img/하이라이트 글_mobile.png");
+        content: url("../img/highlight_text_mobile.png");
         width: 70%; 
         margin-left:53px;
         margin-top: 15px; 
@@ -441,7 +439,7 @@
         margin-left: 100px;
     }
     .munderline{
-        content: url("../img/언더라인 글_mobile.png");
+        content: url("../img/underline_text_mobile.png");
         width: 77%; 
         margin-left:50px;
         margin-top: 20px;
@@ -453,7 +451,7 @@
         margin-left: 100px;
     }
     .mshadow{
-        content: url("../img/섀도우 글_mobile.png");
+        content: url("../img/shadow_text_mobile.png");
         width: 66%; 
         margin-left:58px;
         margin-top: 19px;
@@ -465,7 +463,7 @@
         margin-left: 100px;
     }
     .mdoubleline{
-        content: url("../img/더블라인 글_mobile.png");
+        content: url("../img/doubleline_text_mobile.png");
         width: 67%; 
         margin-left:56px;
         margin-top: 20px;
@@ -483,7 +481,7 @@
         margin-left:100px;
     }
     .membo{
-        content: url("../img/엠보기법 글_mobile.png");
+        content: url("../img/embo_text_mobile.png");
         width: 60%; 
         margin-left:57px;
         margin-top: 20px;
@@ -495,7 +493,7 @@
         margin-left:100px;
     }
     .mfeathering{
-        content: url("../img/페더링기법 글_mobile.png");
+        content: url("../img/padering_text_mobile.png");
         width: 66%; 
         margin-left:53px;
         margin-top: 20px;
@@ -507,7 +505,7 @@
         margin-left:100px;
     }
     .mpastel{
-        content: url("../img/파스텔기법 글_mobile.png");
+        content: url("../img/pastel_text_mobile.png");
         width: 64%; 
         margin-left:52px;
         margin-top: 20px;
@@ -519,7 +517,7 @@
         margin-left:100px;
     }
     .m3d4d{
-        content: url("../img/3d4d기법 글_mobile.png");
+        content: url("../img/3d4d_text_mobile.png");
         width: 75%; 
         margin-left:43px;
         margin-top: 20px;
@@ -531,7 +529,7 @@
         margin-left:100px;
     }
     .macupuncture{
-        content: url("../img/수지기법 글_mobile.png");
+        content: url("../img/suji_mobile.png");
         width: 70%; 
         margin-left:50px;
         margin-top: 20px;
@@ -549,7 +547,7 @@
         margin-left: 100px;
     }
     .mj{
-        content: url("../img/j컬 글_mobile.png");
+        content: url("../img/J_curl_text_mobile.png");
         width: 70%; 
         margin-left:48px;
         margin-top: 16px;
@@ -561,7 +559,7 @@
         margin-left: 100px;
     }
     .mc{
-        content: url("../img/C컬 글_mobile.png");
+        content: url("../img/C_curl_text_mobile.png");
         width: 70%; 
         margin-left:48px;
         margin-top: 16px;
@@ -573,7 +571,7 @@
         margin-left: 100px;
     }
     .mjc{
-        content: url("../img/jc컬 글_mobile.png");
+        content: url("../img/JC_curl_text_mobile.png");
         width: 70%; 
         margin-left:48px;
         margin-top: 16px;
@@ -585,7 +583,7 @@
         margin-left: 100px;
     }
     .mcc{
-        content: url("../img/CC컬 글_mobile.png");
+        content: url("../img/CC_curl_text_mobile.png");
         width: 70%; 
         margin-left:48px;
         margin-top: 16px;
@@ -597,7 +595,7 @@
         margin-left: 100px;
     }
     .mL{
-        content: url("../img/L컬 글_mobile.png");
+        content: url("../img/L_curl_text_mobile.png");
         width: 70%; 
         margin-left:48px;
         margin-top: 16px;
@@ -615,7 +613,7 @@
         margin-left: 100px;
     }
     .mtint{
-        content: url("../img/틴트입술_mobile.png");
+        content: url("../img/tint_lip_mobile.png");
         width: 83%; 
         margin-left:32px;
         margin-top: 20px;
@@ -627,7 +625,7 @@
         margin-left: 100px;
     }
     .mvolume{
-        content: url("../img/볼륨입술_mobile.png");
+        content: url("../img/volume_lip_text_mobile.png");
         width: 88%; 
         margin-left:32px;
         margin-top: 20px;
@@ -639,7 +637,7 @@
         margin-left: 100px;
     }
     .mgyojung{
-        content: url("../img/교정입술_mobile.png");
+        content: url("../img/gyojung_mobile.png");
         width: 87%; 
         margin-left:32px;
         margin-top: 20px;
@@ -651,7 +649,7 @@
         margin-left: 100px;
     }
     .msujung{
-        content: url("../img/수정입술_mobile.png");
+        content: url("../img/sujung_lip_mobile.png");
         width: 89%; 
         margin-left:32px;
         margin-top: 20px;
@@ -666,7 +664,7 @@
     }
     
     .SMP_skill{
-        content: url("../img/SMP_skill제목.png");
+        content: url("../img/SMP_skill_title.png");
         width: 17%;
     }
         /**여성**/
@@ -676,7 +674,7 @@
 
     }
     .smpEimg{
-        content: url("../img/smp두피여성_피씨.png");
+        content: url("../img/smp_hair_W_pc.png");
         margin: 35px 0 20px 0;
     }
     .smpFimg{
@@ -690,7 +688,7 @@
 
     }
     .smpGimg{
-        content: url("../img/smp두피남성_피씨.png");
+        content: url("../img/smp_hair_M_pc.png");
         margin: 35px 0 43px 0px;
     }
     .smpHimg{

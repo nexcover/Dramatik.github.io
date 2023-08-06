@@ -130,7 +130,7 @@
     border-top-right-radius:40%;
 }
 .smpEimg{
-    content: url("../img/smp두피여성_피씨.png");
+    content: url("../img/smp_hair_W_pc.png");
 }
 .smpFimg{
     content: url("../img/womansmp.png");
@@ -145,7 +145,7 @@
     border-top-right-radius:40%;
 }
 .smpGimg{
-    content: url("../img/smp두피남성_피씨.png");
+    content: url("../img/smp_hair_M_pc.png");
 
 }
 .smpHimg{
@@ -260,7 +260,7 @@
     border-top-right-radius:40%;
 }
 .smpEimg{
-    content: url("../img/smp두피여성_피씨.png");
+    content: url("../img/smp_hair_W_pc.png");
     margin: 12px 0 12px 0;
 }
 .smpFimg{
@@ -276,7 +276,7 @@
     border-top-right-radius:40%;
 }
 .smpGimg{
-    content: url("../img/smp두피남성_피씨.png");
+    content: url("../img/smp_hair_M_pc.png");
     margin: 20px 0 20px 20px;
 }
 .smpHimg{
