@@ -1,0 +1,83 @@
+#ABhead1 {
+    font-size: 34px;
+    font-weight: bold;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#ABhead2 {
+    font-size: 34px;
+    display: none;
+    font-weight: bold;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#ABhead3 {
+    font-size: 34px;
+    display: none;
+    font-weight: bold;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.ABcolorH {
+    color: rgb(61, 21, 127);
+}
+
+#ABmid {
+    font-size: 18px;
+}
+
+.ABcolorM {
+    color: rgb(97, 70, 140);
+}
+
+#ABfoot {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(61, 34, 154);
+}
+
+@media only screen and (max-width: 1650px) {
+    #ABhead1 {
+        font-size: 33px;
+    }
+}
+
+@media only screen and (max-width: 1450px) {
+    #ABhead1 {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 1350px) {
+    #ABhead1 {
+        font-size: 25px; 
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    #ABhead1 {
+        display: none;
+    }
+    #ABhead2 {
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 1086px) {
+    #ABhead1 {
+        display: none;
+    }
+    #ABhead2 {
+        display: none;
+    }
+    #ABhead3 {
+        display: block;
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 454px) {
+    #ABhead3 {
+        font-size: 27px;
+    }
+}

@@ -1,25 +1,3 @@
-.ABtext_head {
-    font-size: 34px;
-    font-weight: 600;
-    font-family: 'Nanum Myeongjo', serif;
-}
-
-.ABtext_head1 {
-    display: none;
-    font-weight: 600;
-    font-family: 'Nanum Myeongjo', serif;
-}
-
-.ABtext_head2 {
-    display: none;
-    font-weight: 600;
-    font-family: 'Nanum Myeongjo', serif;
-}
-
-.ABtext_color {
-    color: #35176c;
-}
-
 .profilePC {
     display: block;
 }
@@ -66,41 +44,11 @@
     }
 } 
 
-@media only screen and (max-width: 1650px) {
-    .ABtext_head {
-        font-size: 33px;
+@media only screen and (max-width: 390px) {
+    .tdST3 {
+        width: 265px;
     }
-}
-
-@media only screen and (max-width: 1450px) {
-    .ABtext_head {
-        font-size: 30px;
-    }
-}
-
-@media only screen and (max-width: 1350px) {
-    .ABtext_head {
-        font-size: 25px; 
-    }
-}
-
-@media only screen and (max-width: 1300px) {
-    .ABtext_head {
-        display: none;
-    }
-    .ABtext_head1 {
-        display: block;
-    }
-}
-
-@media only screen and (max-width: 768px) {
-    .ABtext_head {
-        display: none;
-    }
-    .ABtext_head1 {
-        display: none;
-    }
-    .ABtext_head2 {
-        display: block;
+    .tdST3 p {
+        font-size: 11px;
     }
 }

@@ -700,13 +700,13 @@
     .waxingboxM{
         content: url("../img/waxingbox_mobile.png");
     }
-    .skill-waxingimg{
+    /* .skill-waxingimg{
         display: none;    
     }
     .waxing-content{
         content: url("../img/waxingskill_mobile.png");
         width: 80%;
-    }
+    } */
 
 
     .skill-text h3 span{

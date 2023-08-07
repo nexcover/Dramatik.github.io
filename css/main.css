@@ -60,8 +60,8 @@ body {
 
 .preloader {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 45%;
+  left: 45%;
   width: 80px;
   height: 60px;
   margin: -30px 0 0 -40px;
@@ -879,10 +879,6 @@ a:hover {
   color: rgb(93, 51, 134);
 }
 
-.work .filtr-container img {
-  /* height: 500px; */
-}
-
 .work .filtr-container img:hover {
   cursor: pointer;
 }
@@ -1128,8 +1124,6 @@ a:hover {
 
 /******** FOOTER SECTION START ********/
 
-footer {
-}
 
 footer h4 {
   font-size: 8pt;
